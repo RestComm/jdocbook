@@ -1,0 +1,34 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+	<groupId>org.mobicents.jdocbook</groupId>
+	<artifactId>telestax-jdocbook-parent</artifactId>
+        <version>1.0.0-SNAPSHOT</version>  
+    </parent>
+
+    <artifactId>telestax-xslt-ns</artifactId>
+
+    <name>TeleStax Community DocBook XSLT namespaced (XSD variant)</name>
+    <description>
+        The main project to transform DocBook XML into XHTML and other formats for TeleStax Community Documentation.
+        Use this with XSD based docbook XML files. As of 3.0.0 DTD based XML files (non namespaced) are no longer
+        supported.
+    </description>
+
+    <dependencies>
+        <dependency>
+            <groupId>net.sf.docbook</groupId>
+            <artifactId>docbook-xsl</artifactId>
+            <version>1.76.1</version>
+            <classifier>ns-resources</classifier>
+            <type>zip</type>
+        </dependency>
+        <dependency>
+            <groupId>org.jboss.pressgang</groupId>
+            <artifactId>pressgang-highlight</artifactId>
+            <version>3.0.0</version>
+        </dependency>
+    </dependencies>
+
+</project>
