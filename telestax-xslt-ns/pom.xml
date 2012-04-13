@@ -9,9 +9,9 @@
 
     <artifactId>telestax-xslt-ns</artifactId>
 
-    <name>TeleStax Community DocBook XSLT namespaced (XSD variant)</name>
+    <name>TeleStax DocBook XSLT namespaced (XSD variant)</name>
     <description>
-        The main project to transform DocBook XML into XHTML and other formats for TeleStax Community Documentation.
+        The main project to transform DocBook XML into XHTML and other formats for TeleStax Documentation.
         Use this with XSD based docbook XML files. As of 3.0.0 DTD based XML files (non namespaced) are no longer
         supported.
     </description>
