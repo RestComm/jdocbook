@@ -6,7 +6,7 @@
                 exclude-result-prefixes="jbh">
 
     <!-- IMPORTS -->
-    <xsl:import href="http://docbook.sourceforge.net/release/xsl/1.76.1/fo/docbook.xsl"/>
+    <xsl:import href="http://jdocbook.commscale.googlecode.com/git/docbook-xsl-1.77.1/fo/docbook.xsl"/>
 
 
     <!-- INCLUDES -->
