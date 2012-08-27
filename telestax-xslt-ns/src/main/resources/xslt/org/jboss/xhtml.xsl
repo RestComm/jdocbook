@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:d="http://docbook.org/ns/docbook" version="1.0">
 
     <!-- IMPORTS && INCLUDES -->
-    <xsl:import href="http://jdocbook.commscale.googlecode.com/git/docbook-xsl-1.77.1//xhtml/chunk.xsl"/>
+    <xsl:import href="http://jdocbook.commscale.googlecode.com/git/docbook-xsl-1.77.1/xhtml/chunk.xsl"/>
     <xsl:include href="common-xhtml.xsl"/>
 
 
