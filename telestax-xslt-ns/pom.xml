@@ -4,7 +4,7 @@
     <parent>
 	<groupId>org.mobicents.jdocbook</groupId>
 	<artifactId>telestax-jdocbook-parent</artifactId>
-        <version>1.4.0.FINAL</version>  
+        <version>1.5.0.FINAL</version>  
     </parent>
 
     <artifactId>telestax-xslt-ns</artifactId>

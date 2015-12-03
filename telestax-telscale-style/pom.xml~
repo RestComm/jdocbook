@@ -5,7 +5,7 @@
     <parent>
 	<groupId>org.mobicents.jdocbook</groupId>
 	<artifactId>telestax-jdocbook-parent</artifactId>
-        <version>1.1.0-SNAPSHOT</version>  
+        <version>1.4.0.FINAL</version>  
     </parent>
 
     <artifactId>telestax-telscale-style</artifactId>
@@ -14,6 +14,6 @@
     <name>TeleStax TelScale Documentation Style</name>
     <url>http://code.google.com/p/commscale.jdocbook</url>
     <description>
-        Blue and Grey CSS and Images to use as a base for your project XHTML TeleStax Community Documentation.
+        Blue and Grey CSS and Images to use as a base for your project XHTML TeleStax TelScale Documentation.
     </description>
 </project>
